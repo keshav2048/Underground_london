@@ -24,7 +24,6 @@ Recursive path tracing using predecessor arrays
 Data visualization with Matplotlib
 
 London_underground_travel/
-│
 ├── adjacency_list_graph.py           # Adjacency list-based graph structure
 ├── adjacency_matrix_graph.py         # Adjacency matrix-based graph structure
 ├── dll_sentinel.py                   # Doubly linked list (used in data structures)
@@ -37,7 +36,6 @@ London_underground_travel/
 ├── mst.py                           # Kruskal’s Minimum Spanning Tree
 ├── single_source_shortest_paths.py  # Supporting structure for Dijkstra
 ├── dll.py                           # forms double linked list 
-│
 ├── Task_1A.py                        # Measures time taken btw 2 stations
 ├── Task_1B.py                        # Average Execution Time vs. Network Size with Theoretical Complexity Overlay(Time)
 ├── Task_2A.py                        # Calculates Stops btw 2 stations
