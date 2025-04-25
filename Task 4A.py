@@ -1,3 +1,5 @@
+from scipy.stats._mstats_basic import kruskal
+
 from adjacency_list_graph import AdjacencyListGraph
 from mst import *
 
